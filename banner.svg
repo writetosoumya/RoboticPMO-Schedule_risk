@@ -1,7 +1,7 @@
 <!-- docs/banner.svg -->
 <svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Robotic PMO – AI-Native Prototype</title>
-  <desc id="desc">Executive banner with gradient background and tech accents</desc>
+  <desc id="desc">Executive banner with gradient background and tech accents, featuring Soumyamol Vijayamma Surendran and Cognizant Business Consulting</desc>
 
   <!-- Background gradient -->
   <defs>
@@ -36,11 +36,14 @@
 
   <!-- Title & subtitle -->
   <g filter="url(#softGlow)">
-    <text x="60" y="180" fill="white" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="52" font-weight="700">
+    <text x="60" y="170" fill="white" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="52" font-weight="700">
       Robotic PMO – AI-Native Prototype
     </text>
-    <text x="60" y="230" fill="#E3F2FD" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="26" font-weight="400">
-      Predictive Schedule Risk • Agentic Q&amp;A • Works with Any PPM via CSV
+    <text x="60" y="220" fill="#E3F2FD" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="26" font-weight="400">
+      Predictive Schedule Risk • Agentic Q&A • Enterprise AI for Transformation
+    </text>
+    <text x="60" y="270" fill="#BBDEFB" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif" font-size="20" font-weight="500">
+      Developed by Soumya Jom | Cognizant Business Consulting
     </text>
   </g>
 

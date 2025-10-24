@@ -1,0 +1,19 @@
+# Core app dependencies
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+
+# For voice and agentic Q&A features
+speechrecognition
+pyttsx3
+pyaudio
+openai
+
+# Utility and data management
+python-dateutil
+requests
+
+# Optional (for tunneling or remote demo)
+pyngrok
